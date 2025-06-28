@@ -4,6 +4,8 @@ Si no queda muy claro, es en resumidas cuentas, una forma en la que basado en re
 
 Se les llama supervisados, ya que es una persona la que le proporciona datos "correctos" conocidos, técnicamente, guiando el modelo hacia una interpretación sobre "Lo que es y lo que no es".
 
+TODO: Profundizar más en el tema.
+
 2 casos comunes de cuando se ocupa este tipo de aprendizaje es para la *[[Regresión]]* y *[[Clasificación]]*.
 
 En el caso de, por ejemplo, querer predecir cuanto dinero se gastan las familias en un supermercado mensualmente, se usará [[Regresión]] ya que es un valor.
