@@ -1,0 +1,1 @@
+Este tipo de aprendizaje funciona similar a un tipo de educación al sistema en sí, permitiendo hacer predicciones a partir de las recompensas o penalizaciones que se le otorguen según las acciones tomadas en un entorno.
